@@ -3,7 +3,7 @@ SublimeLinter-contrib-serplint
 
 [![Build Status](https://travis-ci.org/beaugunderson/SublimeLinter-contrib-serplint.svg?branch=master)](https://travis-ci.org/beaugunderson/SublimeLinter-contrib-serplint)
 
-This linter plugin for [SublimeLinter][docs] provides an interface to [serplint](https://github.com/beaugunderson/serplint). It will be used with files that have the “serpent” syntax.
+This linter plugin for [SublimeLinter][docs] provides an interface to [serplint](https://github.com/beaugunderson/serplint). It will be used with files that have the "serpent" syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
