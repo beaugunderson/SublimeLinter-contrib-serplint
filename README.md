@@ -19,7 +19,7 @@ Before using this plugin, you must ensure that `serplint` is installed on your s
    ```
 
 
-**Note:** This plugin requires `serplint` __version__ or later.
+**Note:** This plugin requires `serplint` 1.1.0 or later.
 
 ### Linter configuration
 In order for `serplint` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
