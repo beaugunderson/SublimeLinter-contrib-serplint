@@ -1,7 +1,7 @@
 SublimeLinter-contrib-serplint
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-serplint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-serplint)
+[![Build Status](https://travis-ci.org/beaugunderson/SublimeLinter-contrib-serplint.svg?branch=master)](https://travis-ci.org/beaugunderson/SublimeLinter-contrib-serplint)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [serplint](https://github.com/beaugunderson/serplint). It will be used with files that have the “serpent” syntax.
 
@@ -37,13 +37,6 @@ To install via Package Control, do the following:
 
 ## Settings
 For general information on how SublimeLinter works with settings, please see [Settings][settings]. For information on generic linter settings, please see [Linter Settings][linter-settings].
-
-In addition to the standard SublimeLinter settings, SublimeLinter-contrib-serplint provides its own settings. Those marked as “Inline Setting” or “Inline Override” may also be [used inline][inline-settings].
-
-|Setting|Description|Inline Setting|Inline Override|
-|:------|:----------|:------------:|:-------------:|
-|foo|Something.|&#10003;| |
-|bar|Something else.| |&#10003;|
 
 ## Contributing
 If you would like to contribute enhancements or fixes, please do the following:
