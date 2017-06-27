@@ -1,0 +1,10 @@
+SublimeLinter-contrib-serplint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to serplint.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Beau Gunderson/SublimeLinter-contrib-serplint
